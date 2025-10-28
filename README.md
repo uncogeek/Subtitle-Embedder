@@ -243,7 +243,16 @@ Suggestions and improvements are welcome! Some ideas:
 
 ## 📄 License
 
-This tool is provided as-is for personal and educational use. FFmpeg is licensed under LGPL/GPL.
+This project, **Subtitle Embedder**, is licensed under the **MIT License**.
+
+The MIT license applies to all of the code within this repository.
+
+### Third-Party Software (FFmpeg)
+This tool functions by executing the separate, external program **FFmpeg**.
+
+* **FFmpeg** is distributed under the **GNU Lesser General Public License (LGPL) or GNU General Public License (GPL)**.
+* As a user, you are responsible for complying with FFmpeg's license.
+* For detailed licensing information, please consult the official [FFmpeg Legal page](https://www.ffmpeg.org/legal.html).
 
 ## 🙏 Credits
 
